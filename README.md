@@ -3,7 +3,6 @@
 Software Engineer by day :sunny: Gamer by night :new_moon:
 
 Tech Leader at [UNICRED](https://www.unicred.com.br/blog/)
-Host/Organizing [Laracon EU](https://laracon.eu/?ref=github-caneco)
 
 - :computer: I use daily: `.java`, `.groovy`, `.xml`, `.json`, `.yml`, `.env`, `.ai`
 <!--- - 🌍 I'm mostly active within the Laravel Community --->
