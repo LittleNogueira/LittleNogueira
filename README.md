@@ -2,12 +2,12 @@
 
 Software Engineer by day :sunny: Gamer by night :new_moon:
 
-Tech Leader at [UNICRED](https://www.unicred.com.br/blog/)
+#### About me :poop:
 
 Software Engineer with almost 10 years of experience, now leading the payments engineering team at UNICRED. Background built on Java, Spring Boot and microservices, having worked across fintech and payment systems including PIX.
 
+- :office: Tech Leader at [UNICRED](https://www.unicred.com.br/blog/)
 - :computer: I use daily: `.java`, `.groovy`, `.xml`, `.json`, `.yml`, `.env`, `.ai`
-<!--- - 🌍 I'm mostly active within the Laravel Community --->
 - 💬 `ping` me about devops, java, spring, development, ai, kafka
   
 <!---
