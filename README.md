@@ -8,7 +8,7 @@ I'm passionate about software architecture, engineering best practices, DevOps, 
 
 - :office: Tech Leader at [UNICRED](https://www.unicred.com.br/blog/)
 - :computer: I use daily: `.java`, `.groovy`, `.xml`, `.json`, `.yml`, `.env`, `.ai`
-- :seedling: Currently learning everything about the AI ecosystem.
+- :seedling: Currently learning everything about the AI ecosystem
 - 💬 `ping` me about devops, java, spring, development, ai, kafka
   
 <!---
