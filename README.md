@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @LittleNogueira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hello World 👋
+
+Software Engineer by day :sunny: Gamer by night :new_moon:
+
+Tech Leader at [UNICRED](https://www.unicred.com.br/blog/)
+Host/Organizing [Laracon EU](https://laracon.eu/?ref=github-caneco)
+
+- :computer: I use daily: `.java`, `.groovy`, `.xml`, `.json`, `.yml`, `.env`, `.ai`
+<!--- - 🌍 I'm mostly active within the Laravel Community --->
+- 💬 `ping` me about devops, java, spring, development, ai, kafka
 
 <!---
 LittleNogueira/LittleNogueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
